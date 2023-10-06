@@ -20,7 +20,7 @@ To get started with this project, follow these steps:
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/yourusername/player-vs-ai-chess.git
+   git clone https://github.com/Ombhabal/satranj-with-AI-by-om-bhabal
    ```
 
 2. Open the project folder in your code editor of choice.
@@ -53,10 +53,5 @@ If you'd like to contribute to this project, please follow these guidelines:
 
 This project is licensed under the [MIT License](LICENSE.md).
 
-## Contact
 
-If you have any questions or suggestions, feel free to contact us at [your.email@example.com](mailto:your.email@example.com).
-
----
-
-Please customize this README with your project's specific details, such as the repository URL, contact information, and any additional features or instructions you want to include.
+.......
