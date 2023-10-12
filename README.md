@@ -20,7 +20,7 @@ To get started with this project, follow these steps:
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/Ombhabal/satranj-with-AI-by-om-bhabal
+   git clone [https://github.com/Ombhabal/satranj-with-AI-by-om-bhabal](https://github.com/Ombhabal/satranj-with-AI-by-om-bhabal.git)
    ```
 
 2. Open the project folder in your code editor of choice.
